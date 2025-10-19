@@ -1,5 +1,4 @@
-https://github.com/BoyaManjula/StreamlitApp/blob/main/streamlit.png
-
+ 
 # Student Details Viewer - Streamlit App
 
  
